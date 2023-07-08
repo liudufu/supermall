@@ -17,8 +17,8 @@
     "vuex": "^3.5.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.4.0",
-    "@vue/cli-service": "~4.4.0",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
     "postcss-px-to-viewport": "^1.1.1",
     "vue-template-compiler": "^2.6.11"
   }
